@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    width: 100%;
+    overflow: hidden;
+}
+
+.fresh {
+    margin-top: 80px;
+}
+
+.Baked {
+    padding-top: 40px;
+    padding-left: 100px;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+}
+
+.sec {
+    margin-top: 80px;
+}
+
+.bread-box {
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.container .minim {
+    position: relative;
+    margin-top: -70px;
+}
+
+.Traditions {
+    font-size: 50px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.pt {
+    padding: 50px 46px !important;
+}
+
+.trr {
+    border-radius: 15px;
+}
+
+.every {
+    padding-top: 150px;
+}
+
+.jkl {
+    font-size: 55px;
+}
+
+.jkl2 {
+    font-size: 22px;
+}
+
+
+/* .section-5-animation {
+    background-color: #a79f94;
+} */
+
+.section-5-animation .animation-img {
+    height: 350px;
+}
+
+.section-5-animation .animation-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 30px;
+}
+.section-5-animation .main-img-contend{
+background-color: #fff;
+padding: 30px;
+border-radius: 30px;
+}
+
+.df{
+    border-radius: 30px;
+}
+
+.Breads .btn:hover {
+    background-color: black;
+    color: white;
+}
+.sec{
+    margin-bottom: 600px;
+}
+.jjj{
+    height: 100%;
+}
+
+.ttt{
+    /* height: 100%; */
+    border-radius: 30px;
+
+}
+
+.botal img{
+    position: relative;
+    top: -350px;
+    border-radius: 30px;
+}
+
+.container .btn:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.container .yty{
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    height: 400px;
+}
+
+.trt{
+    position: relative;
+}
+.trt::before{
+    position: absolute;
+    content: "";
+    height: 500px;
+    background-color: #a79f94;
+    width: 100%;
+}
+
+
+.abc{
+    position: relative;
+}
+.abc::before{
+    position: absolute;
+    content: "";
+    height: 1100px;
+    background-color: #a79f94;
+    width: 100%;
+}
+
+
+.btnsum{
+    background-color: #a79f94;
+    color: white;
+    width: 100px;
+    height: 27.5px;
+    border: none;
+}
+
+
+.icon{
+    margin: 10px;
+    color: black;
+    font-size: 30px;
+}
+
+.Headline{
+    position: relative;
+}
+
+.Headline::before{
+    position: absolute;
+    content: "";
+    background-color: lightblue;
+    width: 100%;
+    height: 300px;
+}
+
+.icon2{
+    margin: 10px;
+    color: #a79f94;
+    font-size: 30px;
+}
